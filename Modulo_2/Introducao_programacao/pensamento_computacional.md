@@ -1,5 +1,4 @@
 # Pensamento Computacional:
-===========================
 
 ## O que é o pensamento computacional?
 É o processo de pensamento envolvido na expressão de soluções que podem ser
@@ -36,7 +35,6 @@ de seres similares.
     2. Algoritmo (Descrever o problema: Fluxograma, pseudocódigo, etc);
     3. Codificação (Criar o código).
 
-==============================================================================
 
 # Introdução à lógica de programação
 

@@ -1,5 +1,4 @@
 # Git
-=====
 
 ## SHA (Secure Hash Algorithn):
 Encriptação do git para proteger os arquivos.
