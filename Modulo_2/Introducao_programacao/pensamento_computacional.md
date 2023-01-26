@@ -36,6 +36,14 @@ de seres similares.
     2. Algoritmo (Descrever o problema: Fluxograma, pseudocódigo, etc);
     3. Codificação (Criar o código).
 
+==============================================================================
+
+# Introdução à lógica de programação
+
+1. Técnica Linear
+    - Execução sequêncial de uma série de operações.
+2. Técnica Estruturada
+    - Estrutura que pode ter condições para os processos.
 
 
 
