@@ -1,5 +1,4 @@
 # Designer
-==========
 
 ## Ux Designer (User experience):
 Processo que visa melhorar a satisfação do usuário com o produto ou serviço.
